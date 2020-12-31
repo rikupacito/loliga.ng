@@ -1,2 +1,2 @@
 # loliga.ng
-simple redirect page for loliga.ng
+loliga.ng website
